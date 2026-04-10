@@ -1,0 +1,8 @@
+torch>=2.0
+transformers
+einops
+datasets
+mamba-ssm
+lm-eval>=0.4.2
+matplotlib
+numpy
