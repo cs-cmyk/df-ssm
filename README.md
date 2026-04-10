@@ -164,7 +164,7 @@ The speedup is primarily memory-bandwidth-driven (8× less weight data from HBM)
 ```bibtex
 @article{dfssm2026,
   title={Density Field State Space Models: 1-Bit Distillation, Efficient Inference, and Knowledge Organization in Mamba-2},
-  author={},
+  author={Chirag Shinde},
   year={2026}
 }
 ```
