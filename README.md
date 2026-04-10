@@ -1,5 +1,7 @@
 # DF-SSM: Density Field State Space Models
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19501057.svg)](https://doi.org/10.5281/zenodo.19501057)
+
 **1-Bit Distillation, Efficient Inference, and Knowledge Organization in Mamba-2**
 
 ## Overview
